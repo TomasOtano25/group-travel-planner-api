@@ -21,5 +21,7 @@ npm i -D @types/bcrypt
 
 npm i class-transformer
 
+npm i connect-typeorm
+
 npx tsc --init
 ```
