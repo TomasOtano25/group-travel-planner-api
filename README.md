@@ -9,5 +9,12 @@ npm i -D @types/express
 npm i typeorm mysql2 reflect-metadata
 npm i -D @types/passport @types/passport-local @types/express-session
 
+npm i express-validator
+npm i -D @types/express-validator
+
+npm i yup
+
+npm i -D @types/yup
+
 npx tsc --init
 ```
