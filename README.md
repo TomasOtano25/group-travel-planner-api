@@ -16,5 +16,10 @@ npm i yup
 
 npm i -D @types/yup
 
+npm i bcrypt
+npm i -D @types/bcrypt
+
+npm i class-transformer
+
 npx tsc --init
 ```
