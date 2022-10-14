@@ -4,6 +4,6 @@ import { validateRegisterUser } from "../middlewares/register/validators";
 
 const router = Router();
 
-router.post("/register", validateRegisterUser, registerUserController);
+router.post("/", validateRegisterUser, registerUserController);
 
 export default router;
